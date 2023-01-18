@@ -1,1 +1,1 @@
-export const baseUrl = "https://dqflex-api.fly.dev";
+export const baseUrl = "http://jeongsucoding.link";
